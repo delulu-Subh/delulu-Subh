@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I’m <span style="color:#00d8ff">Subham Dey</span> (<i>delulu_Subh</i>) ✨</h1>
+<h1 align="center">✨ Hey, I’m <span style="color:#00d8ff">Subham Dey</span> (<i>delulu-Subh</i>) ✨</h1>
 <h3 align="center">🚀 AI & Software Developer | 🎨 Designer | 🌍 Open-Source Contributor</h3>
 ---
 

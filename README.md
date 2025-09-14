@@ -144,10 +144,4 @@ I’m a **developer × designer × strategist** → I mix **code + art + busines
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=delulu-Subh&icon=5&color=6" alt="Profile Views"/>
-</p>
-
----
-
 ✨ _Crafted with ❤️ + ⚡ + 🎨_

@@ -1,10 +1,5 @@
 <h1 align="center">✨ Hey, I’m <span style="color:#00d8ff">Subham Dey</span> (aka <i>delulu_Subh</i>) ✨</h1>
 <h3 align="center">🚀 AI & Software Developer | 🎨 Designer | 🌍 Open-Source Contributor</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Code+%E2%9C%85+Design+%E2%9C%85+Business;AI+Engineer+%7C+Full+Stack+Developer;Open+Source+Lover+%7C+Creative+Strategist" alt="Typing SVG" />
-</p>
-
 ---
 
 # 🔥 About Me

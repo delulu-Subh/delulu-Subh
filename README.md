@@ -78,30 +78,24 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 [![](https://visitcount.itsvg.in/api?id=delulu-Subh&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### 📌 Featured Projects  
-- 💰 [Salary Prediction with Gradient Descent](https://github.com/delulu-Subh/SalaryPredictionGradientDescent) – Predicts employee salaries using linear regression & gradient descent.  
-- 🏡 [Regression Model Estate Metrics](https://github.com/delulu-Subh/RegressionModelEstateMetrics) – Property valuation using regression analysis.  
-- 🌍 [Regression Model Carbon Metrics](https://github.com/delulu-Subh/RegressionModelCarbonMetrics) – CO₂ emissions prediction from GDP, energy use & industrial activity.  
-- 🚗 [Regression Model Car Metrics](https://github.com/delulu-Subh/RegressionModelCarMetrics) – Car performance & emissions regression analysis.  
-- 📊 [Regression Model GDP](https://github.com/delulu-Subh/RegressionModelGDP) – Predicting China’s GDP (1960–2014) with regression models & metrics.  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🌐 Connect With Me  
 <p align="center">

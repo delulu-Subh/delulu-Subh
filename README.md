@@ -2,13 +2,20 @@
 <h1 align="center">✨ Hi, I’m Subham Dey (delulu-Subh) ✨</h1>
 <h3 align="center">AI & Software Developer | Designer | Open-Source Contributor</h3>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlwY2xwMmpycWhzMHN3b2R4eXBzdTlsaXozd21vNjBuaG43Z3R6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Dragon Animation" />
+</p>
+
+---
+
 ### 🚀 About Me  
 - 🔭 Building: **Regression Models, AI Tools (LLMs + Automation)**  
 - 🤝 Open to: **AI/ML collaborations, Open-source communities, Startup projects**  
 - 🌱 Learning: **DSA (Univ. of Colorado Boulder)** | **Project Mgmt + Strategy (IBM, UIUC, UVA, Maryland)** | **React + Tailwind**  
 - 💬 Ask me about: **Full-stack Development, Prompt Engineering, AI Integrations**  
 - ⚡ Fun Fact: I blend **Code × Art × Business** into everything I build 😎  
-<!-- Dragon Animation -->
+
+---
 
 ### 🛠️ Tech Arsenal  
 
@@ -70,15 +77,16 @@
 - 🕌 Urdu (Native) | 🇫🇷 French (Professional)  
 
 ---
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=delulu-Subh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=radical&no-frame=true&margin-w=15" />
@@ -106,4 +114,4 @@
 
 ---
 
-✨ Crafted with ❤️ + ⚡ + 🎨  
+✨ Crafted with ❤️ + ⚡ + 🎨

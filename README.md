@@ -116,8 +116,11 @@
 ---
 
 ### 🌍 Languages I Speak  
-- 🏠 Bengali (Native) | 🌏 Hindi (Native) | 🌍 English (Bilingual)  
-- 🕌 Urdu (Native) | 🇫🇷 French (Professional)  
+- 🏠 Bengali (Native)
+- 🌏 Hindi (Native)
+- 🌍 English (Bilingual)  
+- 🕌 Urdu (Native) 
+- 🇫🇷 French (Professional)  
 
 ---
 

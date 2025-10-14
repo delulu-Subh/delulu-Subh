@@ -157,4 +157,4 @@
 
 ---
 
-<p align="center">✨ Crafted with ❤️+⚡+🎨</p>
+<p align="center">✨ Crafted with ❤️+⚡+🎨 ✨</p>

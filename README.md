@@ -100,7 +100,9 @@
 ---
 
 ### 🎓 Education  
-- 🎓 **BTech CSE (AI)** – Sister Nivedita University (2023 – Present)  
+- 🎓 **BTech CSE (AI)** – Sister Nivedita University (2023 – Present)
+- 🎓 **Apeejay School** (2020-2023)
+- 🎓 **Narayana School** (2015-2020)
 
 ---
 
@@ -111,15 +113,10 @@
 - 🎓 SQL (HackerRank Certified)  
 - 🎓 Project Management & Analytics – IBM  
 
-📌 *+80 more certifications on [LinkedIn](https://www.linkedin.com/in/delulu-subh/)*  
-
 ---
 
 ### 🌍 Languages I Speak  
-- 🏠 Bengali (Native)
-- 🌏 Hindi (Native)
 - 🌍 English (Bilingual)  
-- 🕌 Urdu (Native) 
 - 🇫🇷 French (Professional)  
 
 ---

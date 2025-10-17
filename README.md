@@ -94,8 +94,8 @@
 ### 💼 Experience  
 - 🎨 **Graphic Designer** @ ZeroDay Alliance (2025 – Present)  
 - 🎨 **Graphic Designer** @ GeeksforGeeks SNU Chapter (2024 – Present)  
-- 🌍 **Contributor** @ Open Source Connect (2025 – Present)  
-- 📚 **Learner** @ SAP, freeCodeCamp (2025 – Present)  
+- 🌍 **Contributor** @ Open Source Connect (2025 – Present)
+- 🌍 **Contributor** @ Samarth TMSL (2025 – Present)  
 
 ---
 

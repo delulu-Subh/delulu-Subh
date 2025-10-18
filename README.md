@@ -122,34 +122,22 @@
 - 🇫🇷 French (Professional)  
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### ✍️ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=delulu-Subh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 

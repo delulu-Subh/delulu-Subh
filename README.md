@@ -19,25 +19,36 @@
 
 ---
 
-### 📈 GitHub Activity
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=delulu-Subh&theme=react-dark" alt="Subham's GitHub activity graph"/>
-  </a>
+### 📈 GitHub Stats
+<p>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delulu-Subh&theme=react-dark" alt="Subham's GitHub activity graph" />
+
+  <!-- Contribution Stats -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=60" alt="Subham's GitHub stats" />
+
+  <!-- Streak Stats -->
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false&timezone=5.5&cache_seconds=60" alt="Subham's GitHub streak stats" />
+
+  <!-- Top Languages -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=60" alt="Subham's top languages" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ Tech Stack
 
-| **Category**                | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Category**                | **Technologies** |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Core Languages**          | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></p>      |
-| **Databases**               | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/></p>                                                                                       |
-| **Frameworks & Libraries**  | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35"/></p>                                                                                                                                                                                             |
-| **Data Science & ML**       | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="35"/></p>                                                                                                                   |
+| **Core Languages**          | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></p> |
+| **Databases**               | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35"/></p> |
+| **Frameworks & Libraries**  | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35"/></p> |
+| **Data Science & ML**       | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="35"/></p> |
 | **Design & Creative Tools** | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="35"/></p> |
-| **Tools & Platforms**       | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="35"/></p>                                                                                                                    |
+| **Tools & Platforms**       | <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="35"/></p> |
 
 ---
 
@@ -62,7 +73,7 @@
 
 ---
 
-### 📜 Certifications (Top Highlights)
+### 📜 Certifications
 - 🎓 Strategic Leadership & Management – UIUC  
 - 🎓 Business Strategy, Design Thinking, Entrepreneurship – UVA, Maryland  
 - 🎓 DSA – Univ. of Colorado Boulder  
@@ -76,39 +87,23 @@
 - 🇫🇷 French (Professional)  
 
 ---
-# 📊 GitHub Stats
-
-<!-- GitHub Contribution Stats -->
-![](https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<!-- GitHub Streak Stats -->
-![](https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false&timezone=5.5)
-
-<!-- GitHub Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=delulu-Subh&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=delulu-Subh)
+![Profile view counter](https://komarev.com/ghpvc/?username=delulu-Subh)
 
 ---
 

@@ -1,9 +1,8 @@
-<!-- Profile Banner -->
-<h1 align="center">✨ Hi, I’m Subham Dey (delulu-Subh) ✨</h1>
-<h3 align="center">AI & Software Developer | Designer | Open-Source Contributor</h3>
-
----
-
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Subham%20Dey&fontSize=75&animation=twinkling&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Entrepreneur&descSize=18&descAlignY=55" alt="Subham Dey Banner" />
+</p>
+<!-- Dragon GIF -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlwY2xwMmpycWhzMHN3b2R4eXBzdTlsaXozd21vNjBuaG43Z3R6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Dragon Animation" />
 </p>
@@ -20,20 +19,10 @@
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delulu-Subh&theme=react-dark" alt="Subham's GitHub activity graph" />
-
-  <!-- Contribution Stats -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=60" alt="Subham's GitHub stats" />
-
-  <!-- Streak Stats -->
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false&timezone=5.5&cache_seconds=60" alt="Subham's GitHub streak stats" />
-
-  <!-- Top Languages -->
-  <br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delulu-Subh&theme=react-dark" alt="Subham's GitHub activity graph" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=60" alt="Subham's GitHub stats" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false&timezone=5.5&cache_seconds=60" alt="Subham's GitHub streak stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=60" alt="Subham's top languages" />
 </p>
 

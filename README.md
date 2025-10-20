@@ -9,13 +9,64 @@
 
 ---
 
-### 🚀 About Me
-🔭 **Building:** Regression Models, AI Tools (LLMs + Automation)  
-🤝 **Open to:** AI/ML collaborations, Open-source communities, Startup projects  
-🌱 **Learning:** DSA (CU Boulder), Project Mgmt & Strategy (IBM, UIUC, UVA, Maryland), React + Tailwind  
-💬 **Ask me about:** Full-stack Dev, Prompt Engineering, AI Integrations  
-⚡ **Fun fact:** I blend **Code × Art × Business** into everything I build 😎  
 
+
+## 🚀 About Me
+
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently Building
+```yaml
+Focus: Regression Models & AI Automation
+Stack: LLMs + Advanced ML Pipelines
+Goal: Scalable AI-driven solutions
+Status: 🟢 Active Development
+```
+
+### 🤝 Open to Collaborate
+- 🤖 **AI/ML Projects** – Neural networks to production
+- 🌐 **Open Source** – Impactful community contributions
+- 🚀 **Startup Ventures** – 0→1 product development
+- 💡 **Research** – Cutting-edge AI applications
+
+</td>
+<td width="50%" valign="top">
+  
+### 🌱 Currently Learning
+**Technical Skills**
+- 🧠 Data Structures & Algorithms *(CU Boulder)*
+- ⚛️ React + Tailwind CSS *(Modern UI/UX)*
+- 🔧 Advanced System Design & Architecture
+
+**Business & Strategy**
+- 📊 Project Management *(IBM)*
+- 🎯 Strategic Leadership *(UIUC)*
+- 💡 Design Thinking & Entrepreneurship *(UVA, Maryland)*
+
+</td>
+</tr>
+</table>
+
+<div>
+
+---
+  
+### 💡 My Philosophy
+
+```mermaid
+graph LR
+    A[💻 Code] --> D[🚀 Innovation]
+    B[🎨 Design] --> D
+    C[📊 Business] --> D
+    style D fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style A fill:#4A90E2,stroke:#357ABD,stroke-width:2px,color:#fff
+    style B fill:#E74C3C,stroke:#C0392B,stroke-width:2px,color:#fff
+    style C fill:#2ECC71,stroke:#27AE60,stroke-width:2px,color:#fff
+```
 ---
 
 ### 📈 GitHub Stats
@@ -47,26 +98,32 @@
 
 ---
 
-### 💼 Experience
-🎨 **Graphic Designer** @ ZeroDay Alliance (2025–Present) · GeeksforGeeks SNU (2024–Present)  
-🌍 **Contributor:** Open Source Connect · Samarth TMSL  
+### 💼 Experience  
+🎨 **Graphic Designer** — *ZeroDay Alliance* (2025–Present) · *GeeksforGeeks SNU* (2024–Present)  
+🌍 **Open-Source Contributor** — *Open Source Connect*, *Samarth TMSL*  
 
 ---
 
-### 🎓 Education
-🎓 **BTech CSE (AI)** – Sister Nivedita University (2023–Present)  
-🏫 **Apeejay School** · **Narayana School**
-
----
-
-### 📜 Certifications
-🎓 Strategic Leadership & Management – UIUC · Business Strategy, Design Thinking – UVA, Maryland  
-🎓 DSA – CU Boulder · SQL – HackerRank · Project Mgmt & Analytics – IBM  
+### 🎓 Education  
+🎓 **B.Tech in Computer Science & Artificial Intelligence** — *Sister Nivedita University* (2023–Present)  
+🏫 **Apeejay School** · **Narayana School**  
 
 ---
 
 ### 🌍 Languages
 English (Bilingual) · French (Professional)
+
+---
+### 📜 Certifications
+
+| 🎓 Certification | 🏛️ Institution | 🧾 Focus Area |
+|------------------|----------------|----------------|
+| Strategic Leadership & Management | University of Illinois Urbana-Champaign (UIUC) | Leadership, Strategy |
+| Business Strategy, Design Thinking | University of Virginia (UVA) & University of Maryland (UMD) | Business Growth & Innovation |
+| Data Structures & Algorithms | University of Colorado Boulder | Computer Science |
+| SQL Certified | HackerRank | Database Management |
+| Project Management & Analytics | IBM | Project Planning, Data Insights |
+
 
 ---
 
@@ -81,7 +138,7 @@ English (Bilingual) · French (Professional)
 ---
 
 ### 🔝 Top Contributed Repo
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
+<p><img src="https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
 
 ---
 

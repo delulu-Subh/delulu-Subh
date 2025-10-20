@@ -54,21 +54,14 @@ Status: 🟢 Active Development
 <div>
 
 ---
- 💡 My philosophy 
- graph LR;
-  A["💻 Code"] --> D["🚀 Innovation"];
-  B["🎨 Design"] --> D;
-  C["📊 Business"] --> D;
 
-  class D big;
-  class A code;
-  class B design;
-  class C business;
+### 💡 My Philosophy
 
-  classDef big fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff;
-  classDef code fill:#4A90E2,stroke:#357ABD,stroke-width:2px,color:#fff;
-  classDef design fill:#E74C3C,stroke:#C0392B,stroke-width:2px,color:#fff;
-  classDef business fill:#2ECC71,stroke:#27AE60,stroke-width:2px,color:#fff;
+<p align="center">
+  <img src="https://mermaid.ink/img/pako:eNqVkE1rgzAQhf-K0V1HYZaUYzGccUzbcQnbZFsEmh8UGcZJuUBN_j3YaUnwnsHfz0qWrXGA72sOg1GYHZmu7blzAJQi2tkW_MHD4HdSC9F5QqhBOEHaLOlyMqIHULdRtZ6JRhR2PgJlj7wNo25sp0byBzm0W43aaV2wvn8V7upOtHhbq9mnsz2sUoeHsFsf8agtrIJqdmvGqfEx3BNiTq0zIsllEq3h3CPL8QRFYksudJhDLdKDV7KQuXv9ZVt1zw4VbNccaoUkkFpzNQnmOZ12WqsbR0xq1w0fw0ofglO62nR8Oj9Onhty7fOK1pRcTDxZK0hY_4o=" width="500" alt="My Philosophy Diagram" />
+</p>
+
+---
 
 ### 📈 GitHub Stats
 <p align="center">

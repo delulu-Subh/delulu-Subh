@@ -55,19 +55,9 @@ Status: 🟢 Active Development
 
 ---
   
-### 💡 My Philosophy
+### 💡 My Philosophy  
 
-```mermaid
-graph LR
-    A[💻 Code] --> D[🚀 Innovation]
-    B[🎨 Design] --> D
-    C[📊 Business] --> D
-    style D fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
-    style A fill:#4A90E2,stroke:#357ABD,stroke-width:2px,color:#fff
-    style B fill:#E74C3C,stroke:#C0392B,stroke-width:2px,color:#fff
-    style C fill:#2ECC71,stroke:#27AE60,stroke-width:2px,color:#fff
-```
----
+![My Philosophy Diagram](https://mermaid.ink/img/pako:eNqVkE1rgzAQhf-K0V1HYZaUYzGccUzbcQnbZFsEmh8UGcZJuUBN_j3YaUnwnsHfz0qWrXGA72sOg1GYHZmu7blzAJQi2tkW_MHD4HdSC9F5QqhBOEHaLOlyMqIHULdRtZ6JRhR2PgJlj7wNo25sp0byBzm0W43aaV2wvn8V7upOtHhbq9mnsz2sUoeHsFsf8agtrIJqdmvGqfEx3BNiTq0zIsllEq3h3CPL8QRFYksudJhDLdKDV7KQuXv9ZVt1zw4VbNccaoUkkFpzNQnmOZ12WqsbR0xq1w0fw0ofglO62nR8Oj9Onhty7fOK1pRcTDxZK0hY_4o=)
 
 ### 📈 GitHub Stats
 <p align="center">

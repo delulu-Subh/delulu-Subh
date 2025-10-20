@@ -55,29 +55,6 @@ Status: 🟢 Active Development
 
 ---
 
-### 💡 My Philosophy
-
-```mermaid
-graph TD
-  A[Code] --> C[Product Value]
-  B[Design] --> C
-  D[Business] --> C
-
-  subgraph Overlaps
-    E1[Tech & UX] --> C
-    E2[Market Fit] --> C
-    E3[Scalable Systems] --> C
-  end
-
-  A --- E1
-  B --- E1
-  B --- E2
-  D --- E2
-  A --- E3
-  D --- E3
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=delulu-Subh&theme=react-dark" width="100%"/><br>

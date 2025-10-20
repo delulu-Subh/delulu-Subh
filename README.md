@@ -137,11 +137,6 @@ English (Bilingual) · French (Professional)
 
 ---
 
-### 🔝 Top Contributed Repo
-<p><img src="https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=delulu-Subh" alt="Profile views"/>
 </p>

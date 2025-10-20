@@ -57,29 +57,24 @@ Status: 🟢 Active Development
 
 ### 💡 My Philosophy
 
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
-  <style>
-    .c{fill-opacity:0.45;stroke:#ffffff;stroke-width:2}
-    .lbl{font:700 18px/1.1 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
-    .sub{font:600 14px/1.1 system-ui, -apple-system, "Segoe UI", Roboto;}
-  </style>
+%% Paste this in your README fenced by ```mermaid
+graph TD
+  A[Code] --> C[Product Value]
+  B[Design] --> C
+  D[Business] --> C
 
-  <!-- circles -->
-  <circle cx="260" cy="210" r="140" fill="#4f46e5" class="c"/>
-  <circle cx="420" cy="210" r="140" fill="#ef4444" class="c"/>
-  <circle cx="340" cy="90"  r="140" fill="#10b981" class="c"/>
+  subgraph Overlaps
+    E1[Tech & UX] --> C
+    E2[Market Fit] --> C
+    E3[Scalable Systems] --> C
+  end
 
-  <!-- main labels -->
-  <text x="180" y="340" class="lbl" fill="#111">Code</text>
-  <text x="480" y="340" class="lbl" fill="#111">Design</text>
-  <text x="330" y="30"  class="lbl" fill="#111" text-anchor="middle">Business</text>
-
-  <!-- intersections -->
-  <text x="340" y="215" class="sub" fill="#111" text-anchor="middle">Product</text>
-  <text x="330" y="270" class="sub" fill="#111" text-anchor="middle">Execution (Code + Business)</text>
-  <text x="460" y="170" class="sub" fill="#111">UX (Design + Code)</text>
-  <text x="220" y="170" class="sub" fill="#111">Strategy (Design + Business)</text>
-</svg>
+  A --- E1
+  B --- E1
+  B --- E2
+  D --- E2
+  A --- E3
+  D --- E3
 
 ---
 

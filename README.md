@@ -57,7 +57,7 @@ Status: 🟢 Active Development
 
 ### 💡 My Philosophy
 
-%% Paste this in your README fenced by ```mermaid
+```mermaid
 graph TD
   A[Code] --> C[Product Value]
   B[Design] --> C

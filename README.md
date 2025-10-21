@@ -100,15 +100,30 @@ Status: 🟢 Active Development
 English (Bilingual) · French (Professional)
 
 ---
-### 📜 Certifications
+## 🏆 Certifications & Specializations
 
-| 🎓 Certification | 🏛️ Institution | 🧾 Focus Area |
-|------------------|----------------|----------------|
-| Strategic Leadership & Management | University of Illinois Urbana-Champaign (UIUC) | Leadership, Strategy |
-| Business Strategy, Design Thinking | University of Virginia (UVA) & University of Maryland (UMD) | Business Growth & Innovation |
-| Data Structures & Algorithms | University of Colorado Boulder | Computer Science |
-| SQL Certified | HackerRank | Database Management |
-| Project Management & Analytics | IBM | Project Planning, Data Insights |
+| **Category** | **Course Title** | **Institution** | **Key Skills** |
+|---------------|------------------|-----------------|----------------|
+| 🎯 **Business, Strategy & Leadership** | Strategic Leadership and Management | University of Illinois Urbana-Champaign | Leadership principles, team management, decision-making, strategic planning, organizational behavior, change management |
+|  | Business Strategy | University of Virginia | Competitive analysis, strategic decision-making, market positioning, business model innovation, long-term planning |
+|  | Managerial Economics and Business Analysis | University of Illinois Urbana-Champaign | Economic analysis, cost-benefit analysis, market demand forecasting, pricing strategies, data-driven decision-making |
+|  | Career Success | University of California, Irvine | Career planning, resume building, networking, interview techniques, personal branding, workplace communication |
+| 🚀 **Entrepreneurship & Innovation** | Entrepreneurship: Launching an Innovative Business | University of Maryland, College Park | Business ideation, market research, business model development, innovation strategies, pitching, startup planning |
+|  | Entrepreneurship: Growing Your Business | University of Virginia | Business scaling, growth strategies, financial management, team building, operational efficiency |
+|  | Design Thinking | University of Virginia | User-centered design, creative problem-solving, ideation, prototyping, iterative testing, innovation processes |
+| 💼 **Project & Technology Management** | IBM Project Manager | IBM (SkillUp) | Agile & Scrum methodologies, risk management, stakeholder communication, budgeting, scheduling, leadership |
+| 🌐 **Digital Marketing & Communication** | Digital Marketing | University of Illinois Urbana-Champaign | Social media marketing, SEO, content marketing, digital advertising, analytics, campaign management |
+| 💻 **Technical Foundations** | Foundations of Data Structures and Algorithms | University of Colorado Boulder | Algorithm design, data structure implementation, problem-solving, coding efficiency, computational thinking |
+
+---
+
+### 🧩 Overarching Themes
+**Business & Entrepreneurship:** Launching, scaling, and strategizing for businesses through innovation and market analysis.  
+**Leadership & Management:** Guiding teams, managing projects, and making strategic, data-informed decisions.  
+**Marketing & Communication:** Building brands and engaging audiences through digital strategies and storytelling.  
+**Technical & Analytical Thinking:** Applying computational and economic reasoning for data-driven innovation.  
+**Creative Problem-Solving:** Using design thinking to ideate, prototype, and implement impactful solutions.
+
 
 
 ---

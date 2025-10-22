@@ -117,17 +117,6 @@ English (Bilingual) · French (Professional)
 
 ---
 
-### 🧩 Overarching Themes
-**Business & Entrepreneurship:** Launching, scaling, and strategizing for businesses through innovation and market analysis.  
-**Leadership & Management:** Guiding teams, managing projects, and making strategic, data-informed decisions.  
-**Marketing & Communication:** Building brands and engaging audiences through digital strategies and storytelling.  
-**Technical & Analytical Thinking:** Applying computational and economic reasoning for data-driven innovation.  
-**Creative Problem-Solving:** Using design thinking to ideate, prototype, and implement impactful solutions.
-
-
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=monokai&no-bg=false&margin-w=5" /></p>
 

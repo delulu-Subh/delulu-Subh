@@ -9,11 +9,7 @@
 
 ---
 
-
-
 ## 🚀 About Me
-
-
 
 <table>
 <tr>

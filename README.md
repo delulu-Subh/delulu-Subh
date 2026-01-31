@@ -56,23 +56,9 @@ Status: 🟢 Active Development
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=delulu-Subh&theme=dark&hide_border=false" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&layout=compact" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=delulu-Subh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=delulu-Subh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=delulu-subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=delulu-subh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -125,11 +111,6 @@ English (Bilingual) · French (Professional)
 | 💼 **Project & Technology Management** | IBM Project Manager | IBM (SkillUp) | Agile & Scrum methodologies, risk management, stakeholder communication, budgeting, scheduling, leadership |
 | 🌐 **Digital Marketing & Communication** | Digital Marketing | University of Illinois Urbana-Champaign | Social media marketing, SEO, content marketing, digital advertising, analytics, campaign management |
 | 💻 **Technical Foundations** | Foundations of Data Structures and Algorithms | University of Colorado Boulder | Algorithm design, data structure implementation, problem-solving, coding efficiency, computational thinking |
-
----
-
-### 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=delulu-Subh&theme=monokai&no-bg=false&margin-w=5" /></p>
 
 ---
 

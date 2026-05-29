@@ -71,14 +71,8 @@ Status: 🟢 Active Development
 
 ---
 
-### 📊 Projects
-![Projects Completed](https://img.shields.io/badge/Projects%20Completed-15-green?style=flat)
-![Ongoing Projects](https://img.shields.io/badge/Ongoing%20Projects-5-yellow?style=flat)
-
----
-
 ### 💼 Experience  
-🛡️ **AI/ML Research Intern** — *SwiftSafe* (March 2026 - August 2026) 
+🛡️ **AI/ML Research Intern** — *SwiftSafe* (March 2026 - August 2026)
 ⚕️ **AI/ML Research Intern** — *IEEE KGC SMC* (May 2026 -August 2026) 
 
 ---

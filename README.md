@@ -52,9 +52,9 @@ Status: 🟢 Active Development
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=delulu-subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=delulu-subh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=delulu-subh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=delulu-Subh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -78,8 +78,8 @@ Status: 🟢 Active Development
 ---
 
 ### 💼 Experience  
-🎨 **Graphic Designer** — *ZeroDay Alliance* (2025–Present) · *GeeksforGeeks SNU* (2024–Present)  
-🌍 **Open-Source Contributor** — *Open Source Connect*, *Samarth TMSL*  
+🛡️ **AI/ML Research Intern** — *SwiftSafe* (March 2026 - August 2026) 
+⚕️ **AI/ML Research Intern** — *IEEE KGC SMC* (May 2026 -August 2026) 
 
 ---
 

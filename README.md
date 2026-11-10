@@ -71,9 +71,26 @@ Status: 🟢 Active Development
 
 ---
 
-### 💼 Experience  
-🛡️ **AI/ML Research Intern** — *SwiftSafe* (March 2026 - August 2026)
-⚕️ **AI/ML Research Intern** — *IEEE KGC SMC* (May 2026 -August 2026) 
+
+### 💼 Experience
+
+**AI/ML Research Intern** — *IEEE KGC SMC* (June 2026 – August 2026 · Kalyani, West Bengal, India)
+
+- Conducted applied AI/ML research under the IEEE SMC Research Programme, focusing on experimentation, model evaluation and intelligent systems.
+- Designed and executed machine learning experiments across real-world problem spaces.
+- Contributed to literature reviews, research validation, experimentation and technical documentation.
+- Evaluated model behaviour and experimental results to develop more reliable intelligent systems.
+- Collaborated with researchers and faculty mentors on structured, publication-oriented research outputs.
+
+**Cloud & AI/ML Trainee** — *Federation University Australia* (October 2025 – March 2026 · Kolkata, West Bengal, India)
+
+- Completed a 6-week AWS DevOps internship programme through Employability Life's XPro Project, in collaboration with Federation University Australia.
+- Developed and automated CI/CD pipelines using AWS services.
+- Explored Infrastructure as Code (IaC) for scalable cloud deployments.
+- Worked with monitoring, logging and system optimisation.
+- Participated in Agile sprint-based activities and industry-inspired technical challenges.
+
+**Technologies & Concepts:** AWS · DevOps · CI/CD · Infrastructure as Code · Cloud Computing · Monitoring & Logging · Agile Methodologies
 
 ---
 
@@ -84,23 +101,50 @@ Status: 🟢 Active Development
 ---
 
 ### 🌍 Languages
-English (Bilingual) · French (Professional)
+Bengali (Native) · Hindi (Native) · English (Bilingual) · French (Professional)
 
 ---
+
 ## 🏆 Certifications & Specializations
 
-| **Category** | **Course Title** | **Institution** | **Key Skills** |
-|---------------|------------------|-----------------|----------------|
-| 🎯 **Business, Strategy & Leadership** | Strategic Leadership and Management | University of Illinois Urbana-Champaign | Leadership principles, team management, decision-making, strategic planning, organizational behavior, change management |
-|  | Business Strategy | University of Virginia | Competitive analysis, strategic decision-making, market positioning, business model innovation, long-term planning |
-|  | Managerial Economics and Business Analysis | University of Illinois Urbana-Champaign | Economic analysis, cost-benefit analysis, market demand forecasting, pricing strategies, data-driven decision-making |
-|  | Career Success | University of California, Irvine | Career planning, resume building, networking, interview techniques, personal branding, workplace communication |
-| 🚀 **Entrepreneurship & Innovation** | Entrepreneurship: Launching an Innovative Business | University of Maryland, College Park | Business ideation, market research, business model development, innovation strategies, pitching, startup planning |
-|  | Entrepreneurship: Growing Your Business | University of Virginia | Business scaling, growth strategies, financial management, team building, operational efficiency |
-|  | Design Thinking | University of Virginia | User-centered design, creative problem-solving, ideation, prototyping, iterative testing, innovation processes |
-| 💼 **Project & Technology Management** | IBM Project Manager | IBM (SkillUp) | Agile & Scrum methodologies, risk management, stakeholder communication, budgeting, scheduling, leadership |
-| 🌐 **Digital Marketing & Communication** | Digital Marketing | University of Illinois Urbana-Champaign | Social media marketing, SEO, content marketing, digital advertising, analytics, campaign management |
-| 💻 **Technical Foundations** | Foundations of Data Structures and Algorithms | University of Colorado Boulder | Algorithm design, data structure implementation, problem-solving, coding efficiency, computational thinking |
+### 🧠 Artificial Intelligence, Machine Learning & Technology
+
+| **Certification / Course** | **Institution** |
+|---|---|
+| Artificial Intelligence: An Overview | Not specified |
+| IBM Machine Learning | IBM |
+| Deep Learning and Reinforcement Learning | Not specified |
+| Supervised Machine Learning | Not specified |
+| Microsoft Front-End Developer | Microsoft |
+| Foundations of Data Structures and Algorithms | University of Colorado Boulder |
+
+### 📊 Business, Strategy & Leadership
+
+| **Certification / Course** | **Institution** |
+|---|---|
+| Strategic Leadership and Management | University of Illinois Urbana-Champaign |
+| Business Strategy | University of Virginia |
+| Managerial Economics and Business Analysis | University of Illinois Urbana-Champaign |
+| Career Success | University of California, Irvine |
+| Google Project Management | Google |
+| IBM Project Manager | IBM (SkillUp) |
+
+### 🚀 Entrepreneurship & Innovation
+
+| **Certification / Course** | **Institution** |
+|---|---|
+| Entrepreneurship: Launching an Innovative Business | University of Maryland, College Park |
+| Entrepreneurship: Growing Your Business | University of Virginia |
+| Design Thinking | University of Virginia |
+
+### 🌐 Digital Marketing & Communication
+
+| **Certification / Course** | **Institution** |
+|---|---|
+| Digital Marketing | University of Illinois Urbana-Champaign |
+
+---
+
 
 ---
 

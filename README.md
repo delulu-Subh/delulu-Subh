@@ -111,10 +111,10 @@ Bengali (Native) · Hindi (Native) · English (Bilingual) · French (Professiona
 
 | **Certification / Course** | **Institution** |
 |---|---|
-| Artificial Intelligence: An Overview | Not specified |
+| Artificial Intelligence: An Overview | Politecnico di Milano |
 | IBM Machine Learning | IBM |
-| Deep Learning and Reinforcement Learning | Not specified |
-| Supervised Machine Learning | Not specified |
+| Deep Learning and Reinforcement Learning | DeepLearning.AI |
+| Supervised Machine Learning | DeepLearning.AI |
 | Microsoft Front-End Developer | Microsoft |
 | Foundations of Data Structures and Algorithms | University of Colorado Boulder |
 
@@ -127,7 +127,7 @@ Bengali (Native) · Hindi (Native) · English (Bilingual) · French (Professiona
 | Managerial Economics and Business Analysis | University of Illinois Urbana-Champaign |
 | Career Success | University of California, Irvine |
 | Google Project Management | Google |
-| IBM Project Manager | IBM (SkillUp) |
+| IBM Project Manager | IBM |
 
 ### 🚀 Entrepreneurship & Innovation
 
@@ -142,9 +142,6 @@ Bengali (Native) · Hindi (Native) · English (Bilingual) · French (Professiona
 | **Certification / Course** | **Institution** |
 |---|---|
 | Digital Marketing | University of Illinois Urbana-Champaign |
-
----
-
 
 ---
 

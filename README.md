@@ -165,10 +165,10 @@ Bengali (Native) · Hindi (Native) · English (Bilingual) · French (Professiona
   <a href="https://linkedin.com/in/delulu-subh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/_subham_dey_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://threads.net/@delulu_subh_"><img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
-  <a href="https://github.com/delulu-Subh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+  <a href="https://github.com/delulu-Subh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a></p>
 
 ---
 
 <h3 align="center"> Code × Design × Business </h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0,5,20&height=100&section=footer"/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=110&section=footer" width="100%" alt="Footer"/> </p>

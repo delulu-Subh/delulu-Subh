@@ -1,9 +1,7 @@
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=210&section=header&text=Subham%20Dey&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20-%20AI%20ML%20Engineer%20-%20Python%20and%20SQL&descSize=15&descAlignY=57" width="100%" alt="Subham Dey Banner"/>
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280" alt="Action Packed Animation"/>
 </p>
@@ -11,11 +9,6 @@
 ---
 
 ### 🚀 About Me
-
-<p align="center">
-  <small><i>Exploring the intersection of Artificial Intelligence, Machine Learning, Automation and Business.</i></small>
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -97,9 +90,9 @@
 
 ### 🎓 Education
 
-<small>🎓 **B.Tech in Computer Science & Artificial Intelligence** — *Sister Nivedita University* (2023–Present)</small>
-
-<small>🏫 **Apeejay School** · **Narayana School**</small>
+<small>⌘ **B.Tech in Computer Science Engineering** — *Sister Nivedita University* (2023–2027)</small><br>
+<small>🕮 **HSC (12th)** — *Apeejay School* (2021–2023)</small><br>
+<small>❖ **SSC (10th)** — *Narayana School* (2015–2021)</small>
 
 ---
 

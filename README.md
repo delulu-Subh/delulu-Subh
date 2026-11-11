@@ -2,62 +2,69 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=210&section=header&text=Subham%20Dey&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20-%20AI%20ML%20Engineer%20-%20Python%20and%20SQL&descSize=15&descAlignY=57" width="100%" alt="Subham Dey Banner"/>
 </p>
-
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlwY2xwMmpycWhzMHN3b2R4eXBzdTlsaXozd21vNjBuaG43Z3R6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="380" alt="Dragon Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" alt="Action Packed Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
+<p align="center">
+  <i>Exploring the intersection of Artificial Intelligence, Machine Learning, Automation and Business.</i>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 Currently Building
-```yaml
-Focus: Regression Models & AI Automation
-Stack: LLMs + Advanced ML Pipelines
-Goal: Scalable AI-driven solutions
-Status: 🟢 Active Development
-```
+<h3> 🔭 Currently Building</h3>
 
-### 🤝 Open to Collaborate
-- 🤖 **AI/ML Projects** – Neural networks to production
-- 🌐 **Open Source** – Impactful community contributions
-- 🚀 **Startup Ventures** – 0→1 product development
-- 💡 **Research** – Cutting-edge AI applications
+**Regression Models & AI Automation**
 
+<pre>
+◈ Focus    → Regression Models
+◈ Stack    → LLMs + Advanced ML Pipelines
+◈ Objective → Scalable AI-driven Solutions
+◈ Status   → 🟢 Active Development
+</pre>
+<hr>
+<h3>Open to Collaborate</h3>
+
+**Let's build something impactful.**
+
+- **AI/ML Projects** : Neural networks, intelligent systems and production-oriented ML.
+- **Open Source** : Meaningful contributions to community-driven projects.
+- **Startup Ventures** : Early-stage ideas and 0→1 product development.
+- **Research** : Exploring emerging AI applications and research opportunities.
 </td>
 <td width="50%" valign="top">
-  
-### 🌱 Currently Learning
-**Technical Skills**
-- 🧠 Data Structures & Algorithms *(CU Boulder)*
-- ⚛️ React + Tailwind CSS *(Modern UI/UX)*
-- 🔧 Advanced System Design & Architecture
+
+<h3> 🌱 Currently Learning</h3>
+
+**Technical Development**
+
+Building a stronger foundation in software engineering and modern technologies.
+
+- **DSA** — University of Colorado Boulder
+- **Frontend** — React + Tailwind CSS
+- **System Design** — Advanced Architecture
+
+<hr>
 
 **Business & Strategy**
-- 📊 Project Management *(IBM)*
-- 🎯 Strategic Leadership *(UIUC)*
-- 💡 Design Thinking & Entrepreneurship *(UVA, Maryland)*
+
+Developing skills beyond engineering, with an emphasis on management, leadership and innovation.
+
+- **Project Management** — IBM
+- **Strategic Leadership** — UIUC
+- **Design Thinking & Entrepreneurship** — UVA, Maryland
 
 </td>
 </tr>
 </table>
 
-<div>
-
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=delulu-Subh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### 🛠️ Tech Stack
 
 | **Category** | **Technologies** |
@@ -70,27 +77,15 @@ Status: 🟢 Active Development
 | **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30"/> |
 
 ---
-
-
 ### 💼 Experience
 
-**AI/ML Research Intern** — *IEEE KGC SMC* (June 2026 – August 2026 · Kalyani, West Bengal, India)
 
-- Conducted applied AI/ML research under the IEEE SMC Research Programme, focusing on experimentation, model evaluation and intelligent systems.
-- Designed and executed machine learning experiments across real-world problem spaces.
-- Contributed to literature reviews, research validation, experimentation and technical documentation.
-- Evaluated model behaviour and experimental results to develop more reliable intelligent systems.
-- Collaborated with researchers and faculty mentors on structured, publication-oriented research outputs.
+| **Role & Organization** | **Duration & Location** | **Overview** |
+|---|---|---|
+| **AI/ML Research Intern**<br>IEEE KGC SMC | June – August 2026<br>Kalyani, West Bengal | Applied AI/ML research, model experimentation, evaluation and research documentation under the IEEE SMC Research Programme. |
+| **Cloud & AI/ML Trainee**<br>Federation University Australia | October 2025 – March 2026<br>Kolkata, West Bengal | Completed a 6-week AWS DevOps programme through Employability Life's XPro Project, focusing on CI/CD automation, IaC and cloud deployment practices. |
 
-**Cloud & AI/ML Trainee** — *Federation University Australia* (October 2025 – March 2026 · Kolkata, West Bengal, India)
-
-- Completed a 6-week AWS DevOps internship programme through Employability Life's XPro Project, in collaboration with Federation University Australia.
-- Developed and automated CI/CD pipelines using AWS services.
-- Explored Infrastructure as Code (IaC) for scalable cloud deployments.
-- Worked with monitoring, logging and system optimisation.
-- Participated in Agile sprint-based activities and industry-inspired technical challenges.
-
-**Technologies & Concepts:** AWS · DevOps · CI/CD · Infrastructure as Code · Cloud Computing · Monitoring & Logging · Agile Methodologies
+**Technologies:** `AWS` · `DevOps` · `CI/CD` · `IaC` · `Cloud Computing` · `Monitoring & Logging` · `Agile`
 
 ---
 
@@ -142,6 +137,13 @@ Bengali (Native) · Hindi (Native) · English (Bilingual) · French (Professiona
 | **Certification / Course** | **Institution** |
 |---|---|
 | Digital Marketing | University of Illinois Urbana-Champaign |
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=delulu-Subh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=delulu-Subh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
